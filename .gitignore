@@ -2,3 +2,5 @@
 .merlin
 *.install
 _build
+_esy/
+node_modules
