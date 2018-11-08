@@ -1,5 +1,9 @@
 {
+  "version": "0.1.0",
   "name": "@joprice/pcre-ocaml",
-  "esy": { "build": "dune build" },
+  "esy": { 
+    "build": "dune build",
+    "install": []
+  },
   "dependencies": { "@opam/base": "v0.11.1", "@opam/dune": "1.4.0" }
 }
